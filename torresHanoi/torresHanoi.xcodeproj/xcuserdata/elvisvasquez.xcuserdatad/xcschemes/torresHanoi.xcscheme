@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A093A3FD1DE8058E00D6FED8"
-               BuildableName = "hanoiPrueba"
-               BlueprintName = "hanoiPrueba"
-               ReferencedContainer = "container:hanoiPrueba.xcodeproj">
+               BlueprintIdentifier = "A093A3E71DE7D16C00D6FED8"
+               BuildableName = "torresHanoi"
+               BlueprintName = "torresHanoi"
+               ReferencedContainer = "container:torresHanoi.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A093A3FD1DE8058E00D6FED8"
-            BuildableName = "hanoiPrueba"
-            BlueprintName = "hanoiPrueba"
-            ReferencedContainer = "container:hanoiPrueba.xcodeproj">
+            BlueprintIdentifier = "A093A3E71DE7D16C00D6FED8"
+            BuildableName = "torresHanoi"
+            BlueprintName = "torresHanoi"
+            ReferencedContainer = "container:torresHanoi.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A093A3FD1DE8058E00D6FED8"
-            BuildableName = "hanoiPrueba"
-            BlueprintName = "hanoiPrueba"
-            ReferencedContainer = "container:hanoiPrueba.xcodeproj">
+            BlueprintIdentifier = "A093A3E71DE7D16C00D6FED8"
+            BuildableName = "torresHanoi"
+            BlueprintName = "torresHanoi"
+            ReferencedContainer = "container:torresHanoi.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A093A3FD1DE8058E00D6FED8"
-            BuildableName = "hanoiPrueba"
-            BlueprintName = "hanoiPrueba"
-            ReferencedContainer = "container:hanoiPrueba.xcodeproj">
+            BlueprintIdentifier = "A093A3E71DE7D16C00D6FED8"
+            BuildableName = "torresHanoi"
+            BlueprintName = "torresHanoi"
+            ReferencedContainer = "container:torresHanoi.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

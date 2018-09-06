@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>hanoiPrueba.xcscheme</key>
+		<key>torresHanoi.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>A093A3FD1DE8058E00D6FED8</key>
+		<key>A093A3E71DE7D16C00D6FED8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
